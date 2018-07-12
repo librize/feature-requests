@@ -4,7 +4,7 @@
 
 - [リブライズの開発状況はこちら](https://github.com/librize/feature-requests/projects/1?fullscreen=true)
 
-![ロードマップ](roadmap.png)
+[![ロードマップ](roadmap.png)](https://github.com/librize/feature-requests/projects/1?fullscreen=true)
 
 ## リブライズのコミュニティサポート
 
