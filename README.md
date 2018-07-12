@@ -1,5 +1,7 @@
 # リブライズ ～すべての本棚を図書館に～
 
+> このリポジトリは、[リブライズ](https://librize.com)の機能リクエストや開発状況をまとめる目的で運用されています。
+
 - [リブライズの開発状況はこちら](https://github.com/librize/feature-requests/projects/1?fullscreen=true)
 
 
